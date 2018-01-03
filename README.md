@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CopyrightToolFilipp::Renderer.copyright('Filip Potocnik', 'All rights reserved')
+```
+
 
 ## Development
 
